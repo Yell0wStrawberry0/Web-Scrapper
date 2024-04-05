@@ -56,4 +56,4 @@ if __name__ == '__main__':
     with open('link_list.txt', 'w+') as f:
         l = work('http://www.google.com')
         f.write(str(l))
-    print('peon...work is done!') 
+    print('peon...work is done!')  
