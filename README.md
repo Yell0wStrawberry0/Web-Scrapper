@@ -1,4 +1,4 @@
-<span style="color: red;">Deprecated</span>
+<span style="color:red">Deprecated</span>
 
 ### Required
 * Requests - standard for making HTTP requests in Python
