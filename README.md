@@ -1,5 +1,5 @@
 ```diff
-- Deprecated
+- Deprecated, Web-Scrapper-V2 - updated version
 ```
 
 ### Required
