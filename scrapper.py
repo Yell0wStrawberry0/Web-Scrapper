@@ -42,7 +42,6 @@ def work(URL, items=[]):
 
     for item in [href for href in ref_list if href not in items]:
         items.append(item)
-        print("len(items)=%d" % len(items))
         work(item, items)
 
         if len(items) >= 50:
